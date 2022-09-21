@@ -18,7 +18,7 @@ PUT players/_doc/1
 ```
 PUT players/_doc/2
 {
-  "player.name": "daenrys",
+  "player.name": "daenerys",
   "player.avatar": "https://raw.githubusercontent.com/kevinAlexsander/atividades-canvas/main/daenerys.png",
   "coins": "500",
   "total": "1000",
